@@ -33,8 +33,8 @@ footer {
 }
 header,
 footer {
-  background-color: #705C53;
-  color: #fff;
+  background-color: #61677A;
+  color: #FFF6E0;
   text-align: center;
   font-size: 30px;
 }
@@ -44,6 +44,7 @@ nav {
 }
 main {
   grid-area: main; /*overflow-y: scroll;*/
+  background-color: #D8D9DA;
 }
 aside {
   grid-area: aside;
